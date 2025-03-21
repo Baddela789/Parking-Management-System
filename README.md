@@ -19,6 +19,11 @@ Admin can approve, update, or cancel reservations as needed.
 Admin can manage the availability of parking spots in real-time (marking them as "available" or "occupied").
 Rate Management:
 -----------------------------
+
+![Image](https://github.com/user-attachments/assets/da18f215-6ceb-469f-af42-45e4442fc80a)
+![Image](https://github.com/user-attachments/assets/381923d2-6e8f-464b-901a-daf3eb479914)
+![Image](https://github.com/user-attachments/assets/a796d2bd-0acb-4457-8356-3f416ad835b4)
+![Image](https://github.com/user-attachments/assets/d9896d3a-3dec-4e8e-91a4-d6ef4552c2d3)
 Admin can define parking rates for different types of vehicles (e.g., car, bike) based on the duration of stay.
 Rates can be set for various durations (e.g., hourly, daily, weekly).
 User Management:
@@ -31,6 +36,10 @@ User Features:
 
 Parking Lot & Spot Viewing:
 -------------------------------
+![Image](https://github.com/user-attachments/assets/86eec40e-c718-482f-a43e-3de8ae3e5827)
+![Image](https://github.com/user-attachments/assets/189eeb9b-7bb1-4ea8-b664-68372d554e42)
+![Image](https://github.com/user-attachments/assets/a75791a9-3eed-4bf2-a7fc-f45a3387c9e3)
+![Image](https://github.com/user-attachments/assets/b7864c2d-665e-48e6-9f4c-37c99ea7af4b)
 Users can view all available parking spots in a specific parking lot.
 Users can filter available spots based on vehicle type (car or bike).
 Parking Spot Booking:
